@@ -24,5 +24,15 @@ RECOMENDACIONES:
 
 5) Utilizar textos claros y breves para facilitar la comprensión de la información.
 
+BUENA PRACTICAS:
 
+1) Realizar pruebas con usuarios para detectar problemas de navegación y mejorar la experiencia.
+
+2) Utilizar una jerarquía visual adecuada para destacar la información más importante.
+
+3) Proporcionar retroalimentación al usuario después de realizar una acción.
+
+4) Diseñar teniendo en cuenta la accesibilidad para que la interfaz pueda ser utilizada por diferentes personas.
+
+5) Mantener una navegación intuitiva y organizada para que el usuario pueda encontrar fácilmente lo que necesita.
 
