@@ -1,0 +1,7 @@
+Diseño de interfaz de usuario
+
+1) Definición
+el  Diseño de Interfaz de Usuario (UI) es la disciplina enfocada en la conceptualización, estructura 
+visual e interactividad de los puntos de contacto digitales entre un ser humano y una máquina
+(software o hardware). El objetivo principal es traducir la lógica funcional de un sistema en un
+ entorno estético altamente intuitivo, predecible y accesible.
