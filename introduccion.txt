@@ -15,6 +15,7 @@ universal, convirtiendo la estética en una herramienta crítica para generar co
 retener la atención en un mercado saturado y asegurar el éxito comercial de cualquier
 ecosistema digital.
 
+
  2) CONTEXTO HISTORICO
 
  La forma en que nos comunicamos con las máquinas ha pasado por tres grandes eras:
@@ -34,3 +35,23 @@ invisible (Zero-UI). El usuario ya no necesita una pantalla, sino que interactú
  Vision Pro, la interfaz rompe el cristal de las pantallas. Ahora los menús flotan en el espacio
   tridimensional (controlados con la mirada o gestos) y las pantallas cambian solas en tiempo real 
   según las necesidades de cada usuario.
+
+
+3) IMPORTANCIA DEL TEMA
+
+El diseño UI es un requisito de negocio crítico por las siguientes razones:
+
+- Reduce la fricción cognitiva: Un diseño limpio y predecible permite al usuario navegar de forma fluida
+ y sin frustración.
+
+- Estándar de calidad "Big Tech": Los usuarios consumen a diario apps optimizadas como Spotify o Netflix
+ Cualquier interfaz nueva compite inconscientemente contra la última gran experiencia digital que tuvo el
+ usuario.
+
+- Garantiza la conversión y confianza: Una UI profesional proyecta seguridad (vital en sectores como 
+finanzas o salud) y guía visualmente al comprador hacia los botones de acción, aumentando las ventas y la
+retención.
+
+- Accesibilidad universal: El diseño UI moderno sigue las pautas WCAG, permitiendo que personas con 
+discapacidades visuales o motoras utilicen la tecnología mediante contrastes correctos y tamaños de
+ fuente legibles.
