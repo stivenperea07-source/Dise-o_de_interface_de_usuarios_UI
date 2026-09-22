@@ -1,0 +1,3 @@
+conclusion 
+El proyecto de diseño de la interfaz para la plataforma SaaS logró unificar los flujos de trabajo complejos en un entorno visualmente intuitivo, reduciendo la curva de aprendizaje de los nuevos usuarios en un 40%.
+La implementación de un sistema de rejilla (grid) consistente, una paleta de colores con contraste validado para accesibilidad y microinteracciones fluidas permitieron que la gestión de tareas complejas se percibiera como un proceso simple y directo, cumpliendo rigurosamente con los objetivos de retención del producto.
