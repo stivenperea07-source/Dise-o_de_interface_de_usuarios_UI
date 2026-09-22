@@ -1,0 +1,21 @@
+PROBLEMAS:
+
+1)Sobrecarga cognitiva: Llenar la pantalla con demasiados botones, colores o textos confunde al usuario y reduce su capacidad de acción.
+
+2)Falta de coherencia visual: No seguir un sistema de diseño estandarizado en tipografía, colores o tamaños genera desconfianza y un aspecto poco profesional.
+
+3)Ausencia de retroalimentación: No mostrar mensajes de confirmación o estados de carga hace que el usuario dude si su acción funcionó.
+
+5)Navegación compleja: Estructuras enredadas o menús ocultos impiden que las personas encuentren funciones básicas de forma rápida.
+
+RIESGOS:
+
+1)Mala alineación y espaciado: Elementos desalineados o con tamaños desproporcionados que dan un aspecto poco profesional.
+
+2)Abandono y pérdida de clientes: Si la interfaz es molesta o difícil de usar, los usuarios migrarán rápidamente hacia la competencia.
+
+3)Ralentización del sistema: El uso excesivo de animaciones pesadas, imágenes sin optimizar o componentes visuales complejos satura el procesador del dispositivo y aumenta el tiempo de carga.
+
+4)Miedo al espacio en blanco: No dejar márgenes ni "aire" entre componentes, lo que provoca fatiga visual.
+
+5)Incompatibilidad y quiebre de interfaz: Elementos UI mal estructurados se rompen fácilmente al cambiar de navegador, actualización de sistema operativo o tamaño de pantalla.
