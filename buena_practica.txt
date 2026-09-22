@@ -1,0 +1,14 @@
+Beneficios del diseño de interfaces de usuario (UI)
+
+1) Mejora la experiencia del usuario: facilita que las personas entiendan y utilicen una aplicación, página web o sistema.
+
+2) Facilita la navegación: una estructura clara permite encontrar rápidamente la información o función que se necesita.
+
+3) Aumenta la accesibilidad: un buen diseño puede adaptarse a personas con diferentes capacidades y necesidades.
+
+4) Reduce errores: botones, mensajes y formularios bien diseñados ayudan al usuario a evitar acciones incorrectas.
+
+5) Mejora la percepción del producto: una interfaz coherente y atractiva transmite profesionalismo y confianza.
+
+6) Aumenta la eficiencia: permite realizar tareas con menos pasos y menor esfuerzo.
+
