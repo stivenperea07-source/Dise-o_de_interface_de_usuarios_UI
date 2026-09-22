@@ -19,3 +19,14 @@ RIESGOS:
 4)Miedo al espacio en blanco: No dejar márgenes ni "aire" entre componentes, lo que provoca fatiga visual.
 
 5)Incompatibilidad y quiebre de interfaz: Elementos UI mal estructurados se rompen fácilmente al cambiar de navegador, actualización de sistema operativo o tamaño de pantalla.
+
+ERRORES:
+1)Falta de contraste de color: Usar texto gris claro sobre fondo blanco o combinaciones que impiden leer el contenido a personas con baja visión.
+
+2)Iconos ambiguos: Utilizar símbolos abstractos sin etiquetas de texto, obligando al usuario a adivinar qué hace cada botón.
+
+3)Mal uso de fuentes: Mezclar más de tres tipografías distintas o elegir tamaños de letra demasiado pequeños (menores a 12px–14px) para el texto de lectura.
+
+4)Espaciado inconsistente: Cambiar los márgenes y rellenos (padding) de forma aleatoria entre pantallas, lo que rompe la armonía visual.
+
+5)Ocultar las etiquetas de los campos: Usar el texto de sugerencia (placeholder) como etiqueta; cuando el usuario empieza a escribir, la pista desaparece y olvida qué le pedía el campo.
